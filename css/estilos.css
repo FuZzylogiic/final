@@ -1,0 +1,24 @@
+
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+}
+
+#ejemplo {
+    width: 200px;
+    margin: 0 auto;
+    background-color: #CCC;
+    border: 1px solid #000;
+    box-shadow: 2px 2px 2px #e8f7b0;/*En cuestion de colores de borde creo que un negro quedaria aunque tuve problemas en saber si era "0" o tal vez "O" 
+    pero al intentar con el O no salio y con el 0 si*/
+    padding: 2px 4px;/*Me parece muy justo a los lados de izquierda y derecha pero si mas al lado izquierdo que derecho para hacer una
+    modificacion seria mejor 18px*/
+    height: 370px;/*Sirve para ajustar la caja de texto en este caso lo ajuste a 370 para que tengan espacios abajo*/
+}
+
+h2 {
+      font-family: "Lugrasimo", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
